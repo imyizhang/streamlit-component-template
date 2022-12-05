@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-__version__ = '0.1.5'
+__version__ = '0.0.1'
 
-from .space import space
+from .component import component
 
-__all__ = ('space',)
+__all__ = ('component',)
